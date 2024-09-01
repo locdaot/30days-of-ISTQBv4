@@ -1,4 +1,4 @@
-Fundamental of Testing consists 5 main of learning objects
+Fundamentals of Testing consists 5 main of learning objects
 
 1.1.What is Testing?
 Software testing is a set of activities to discover defects and evaluate the quality of software artifacts /ˈɑːrtɪfækt/

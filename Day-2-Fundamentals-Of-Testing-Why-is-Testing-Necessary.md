@@ -6,6 +6,9 @@ Why is Testing necessary?
 
 QA and QC are not the same
 
+![Screenshot 2024-09-04 at 22 41 37](https://github.com/user-attachments/assets/bde8477b-5be9-49cb-9e7c-28c23188a964)
+
+
 QC is a product-oriented (-oriented combining form /ɔːrientɪd/ (hướng tới), corrective approach that focuses on those activies supporting the achievement of appropriate levels of quality.
 
 ===>> defects

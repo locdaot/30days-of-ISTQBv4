@@ -1,5 +1,5 @@
-Testers who know and take advantage of testing principles set achievable goals and realistic objects:
--
+# 1.3 TESTING PRINCIPLES
+**Testers who know and take advantage of testing principles set achievable goals and realistic objects:**
 - Reduce the likelihood of end-user to find uncovered defects
 - Use risk analysis, test techniques and priorities to find as many defect as possible in a limited amount of time
 - Defect leakage of less than 5%
@@ -9,13 +9,12 @@ Testers who know and take advantage of testing principles set achievable goals a
 - Requirement coverange of 100%
 
   
-Testers who don't know the testing principles set unattainable goals and realistic objects:
--
+**Testers who don't know the testing principles set unattainable goals and realistic objects:**
 - Prove that software is defect free
 - Test everything and find all defects in the system.
 
-SEVEN PRINCIPLES OF SOFTWARE TESTING
--
+# SEVEN PRINCIPLES OF SOFTWARE TESTING
+
 1. Testing Principles I - Testing shows the presence not the absence of defects (Kiểm thử chứng minh sự hiện diện của lỗi)
    -
 2. Testing Principles II - Exhaustive testing is impossible (Không thể kiểm thử toàn bộ)
@@ -48,9 +47,9 @@ defects found could still produce a system that does not fulfill the users’ ne
 does not help in achieving the customer’s business goals, and that is inferior compared to other
 competing systems. In addition to verification, validation should also be carried out
 ****
-QUIZ:
+# QUIZ:
 
-Question #1 (1 Point) (c) 
+**Question #1 (1 Point) (c)**
 
 Mr. Test has been testing software applications on mobile devices for a period of 5 years. 
 He has a wealth of experience in testing mobile applications and achieves better results in a shorter time than others. 
@@ -61,7 +60,7 @@ This leads to fewer and fewer defects being found by executing the tests. What p
 - c) Repeating of same tests will not find new defects.
 - d) Defects cluster together.
 ****
-Question #2 (1 Point) (1.3.724) (d)
+**Question #2 (1 Point) (1.3.724) (d)**
 
 Which of the following account for most of the failures in a system?
 - a) They will be found in the smallest modules.
@@ -69,7 +68,7 @@ Which of the following account for most of the failures in a system?
 - c) They will be found in the largest modules.
 - d) They will be found in a small proportion of modules.
 ****
-Question #3 (1 Point) (1.3.254) (1-C, 2-A, 3-E)
+**Question #3 (1 Point) (1.3.254) (1-C, 2-A, 3-E)**
 
 Which general testing principles(1-3) are characterized by the descriptions(A-F) below?
 
@@ -91,7 +90,7 @@ E. This principle is an illustration of the Pareto principle. (The Pareto Princi
 
 F. Defects always have a pair, once you find one always look for another one.
 ****
-Question #4 (1 Point) (1.3.314) (d)
+**Question #4 (1 Point) (1.3.314) (d)**
 
 As a result of risk analysis, more testing is being directed to those areas of the system under test where initial testing found more defects than average. 
 Which of the following testing principles is being applied?
@@ -100,7 +99,7 @@ Which of the following testing principles is being applied?
 - c) Absence-of-defects fallacy
 - d) Defects cluster together.
 ****
-Question #5 (1 Point) (1.3.721) (d)
+**Question #5 (1 Point) (1.3.721) (d)**
 
 Which of the statements below is the best assessment of how the Testing principles apply across the test life cycle?
 - a) Testing principles only affect the planning and test analysis activities.
@@ -108,7 +107,7 @@ Which of the statements below is the best assessment of how the Testing principl
 - c) Testing principles only affect, the planning and test design test implantation activities.
 - d) Testing principles affect activities throughtout the test life cycle.
 ****
-Question #6 (1 Point) (1.3.503) (b)
+**Question #6 (1 Point) (1.3.503) (b)**
 
 Which of the following definitions BEST describes an exhaustive testing approach?
 - a) A test approach in which the test suite comprises all combinations of output values and preconditions.
@@ -118,7 +117,7 @@ Which of the following definitions BEST describes an exhaustive testing approach
 
 ****
 
-Question #7 (1 Point) (1.3.513) (b)
+**Question #7 (1 Point) (1.3.513) (b)**
 
 A product owner says that your role as a tester on an Agile team is to catch all the bugs before the end of each iteration. 
 Which of the following is a testing principle that could be used to respond to this (false) statement?
@@ -127,7 +126,7 @@ Which of the following is a testing principle that could be used to respond to t
 - c) Absence of error fallacy
 - d) Root cause analysis.
 ****
-Question #8 (1 Point) (1.3.199) (1-D, 2-A, 3-B)
+**Question #8 (1 Point) (1.3.199) (1-D, 2-A, 3-B)**
 
 Which general testing principles(1-3) are characterized by the descriptions(A-F) below?
 
@@ -149,7 +148,7 @@ E. Regardless of the type and stage of the project, testers should always try to
 
 F. All lines of code cannot be tested, so the tester should write only those tests that cover the largest number of lines of code
 ****
-Question #9 (1 Point) (1.3.654) (b)
+**Question #9 (1 Point) (1.3.654) (b)**
 
 For two weeks, the testing team tested four modules A, B, C, and D. At the moment, the testing is completed, but the testing team still has a spare day for exploratory testing. 
 Modules A and B were quite simple, and it wasn't expected to have any problems with those. Modules C and D were large and complex, the development team coded those very carefully. 
@@ -161,7 +160,7 @@ On which modules should the testing team spend one day of exploratory testing if
 - c) The testing team should divide the testing time equally between modules A, B, C and D.
 - d) The testing team should concentrate on testing modules C and D as the testing team already spent a lot of time on the simple modules A n B and a lot of issues were already discovered there.
 ****
-Question #10 (1 Point) (1.3.182) (b)
+**Question #10 (1 Point) (1.3.182) (b)**
 
 A development team has defined two main testing objectives: 
 verifying that a test object complies with regulatory requirements and validating whether the test object is complete and works as expected by the stakeholders. 
@@ -173,7 +172,7 @@ Which testing principle explains the desire to involve end-users in testing in a
 - c) Testing is context dependent.
 - d) Exhaustive testing is impossible.
 ****
-Question #11 (1 Point) (1.3.673) (b)
+**Question #11 (1 Point) (1.3.673) (b)**
 
 The testing team consistently finds around 85% of the defects present in the system under test. 
 The manager asked how long it takes the testing team to develop a regression test suite to find 100% of bugs. 
@@ -187,7 +186,7 @@ Is the test team right to ask for access to the production environment, why?
 - c) The testing team is right, defects cluster together.
 - d) The testing team is wrong, absence-of-defects fallacy.
 ****
-Question #12 (1 Point) (1.3.945) (b)
+**Question #12 (1 Point) (1.3.945) (b)**
 
 What is the MAIN benefit of designing tests early in the life cycle?
 - a) It is cheaper than designing tests during the test phases.
@@ -195,7 +194,7 @@ What is the MAIN benefit of designing tests early in the life cycle?
 - c) Tests designed early are more effective than tests designed later
 - d) It saves time during the testing phases when testers are busy.
 ****
-Question #13 (1 Point) (1.3.730) (c)
+**Question #13 (1 Point) (1.3.730) (c)**
 
 A new product for renting electric scooters is planned to be released next month. 
 The testing team found a large number of bugs that were fixed. A good regression test suite has been written, from which all tests are automated. 
@@ -208,7 +207,7 @@ Which of the testing principles will MOST help the team make the case for its re
 - c) Absence-of-defects fallacy
 - d) Testing is context dependent
 ****
-Question #14 (1 Point) (1.3.923) (b)
+**Question #14 (1 Point) (1.3.923) (b)**
 
 After launching a new online shopping platform, the company received feedback that users find the checkout process confusing, even though this feature passed all tests with no defects found. 
 Which testing principle does this scenario illustrate?
@@ -217,14 +216,14 @@ Which testing principle does this scenario illustrate?
 - c) Exhausive testing is impossible
 - d) Testing is context dependent
 ****
-Question #15 (1 Point) (1.3.741) (d)
+**Question #15 (1 Point) (1.3.741) (d)**
 Which of the following is an example of addressing one of the testing principles?
 - a) Test wear out, so you need to automate regression test suites
 - b) Exhausive testing is impossible, therefore testing should be limited in time, and testers should try to fit into it.
 - c) Due to the Absence-of-defects fallacy testing principle, the lower the level of test independence, the more bugs tester will find.
 - d) Testing is context dependent, so test practices that have been applied successfully on one project may work poorly or not all all on another.
 ****
-Question #16 (1 Point) (1.3.912) (b)
+**Question #16 (1 Point) (1.3.912) (b)**
 
 During testing, the team notices that a particular module consistently contains the majority of defects. 
 How does this observation relate to the testing principle of "Defect clustering"? What actions should the team take based on this principle?
@@ -233,7 +232,7 @@ How does this observation relate to the testing principle of "Defect clustering"
 - c) This aligns with the principle of "Defect clustering", indicating that a small number of modules contain the majority of defects. The team should prioritize testing efforts on other modules to find more defects.
 - d) It emphasizes that testing should begin with the smallest modules firt, so the team should start testing other modules fisrt.
 ****
-Question #17 (1 Point) (1.3.755) (c)
+**Question #17 (1 Point) (1.3.755) (c)**
 
 The users are dissatisfied with the online shop and find a lot of defects after each release. 
 Most of the defects are found in the main functionalities like purchase, registration, shopping cart, and wishlist. 
@@ -250,7 +249,7 @@ Which of the testing principles will be the MOST useful to explain the situation
 - c) Test wear out.
 - d) Defects cluster together.
 ****
-Question #18 (1 Point) (1.3.901) (b)
+**Question #18 (1 Point) (1.3.901) (b)**
 
 A software development team is debating when to start testing their project. 
 Some team members argue for postponing testing until all features are implemented, while others advocate for starting testing early. 
@@ -260,7 +259,7 @@ According to testing principles, what would be the most appropriate course of ac
 - c) Begin testing after all futures are implemented to minimize rework
 - d) Delay testing untill after UAT to align with stakeholder expectations
 ****
-Question #19 (1 Point) (1.3.761) (c)
+**Question #19 (1 Point) (1.3.761) (c)**
 
 What does the principle "Testing shows the presence of defects" imply?
 - a) Testing can prove that a software product is defect-free
@@ -268,7 +267,7 @@ What does the principle "Testing shows the presence of defects" imply?
 - c) Testing can find defects, but cannot prove there are no defects
 - d) Testing ensures that the software product meets its requirements
 ****
-Question #20 (1 Point) (1.3.890) (b)
+**Question #20 (1 Point) (1.3.890) (b)**
 
 Which of the following is NOT a core testing principle?
 - a) Exhausive testing is impossible
@@ -276,7 +275,7 @@ Which of the following is NOT a core testing principle?
 - c) Testing is context dependent
 - d) Defects cluster together.
 ****
-Question #21 (1 Point) (1.3.844) (a)
+**Question #21 (1 Point) (1.3.844) (a)**
 
 The "Absence-of-defects fallacy" principle suggests that:
 - a) The absence of known defects is not a good indicator of software quality

@@ -1,10 +1,10 @@
-Why is Testing necessary?
+# 1.2. WHY IS TESTING NECESSARY?
 
-1.2.1 Testing's Contributions to success
+## 1.2.1 Testing's Contributions to success
 
-1.2.2 Testing and Quality Assurance(QA)
+## 1.2.2 Testing and Quality Assurance(QA)
 
-QA and QC are not the same
+<mark>QA and QC are not the same</mark>
 
 ![Screenshot 2024-09-04 at 22 41 37](https://github.com/user-attachments/assets/bde8477b-5be9-49cb-9e7c-28c23188a964)
 
@@ -17,12 +17,12 @@ QA is a process-oriented, preventive approach that focuses on the implementation
 
 ===>> Provide feedback on how well the development and test processes are performing.
 
-1.2.3. Errors, Defects, Failures, and Root Causes
+## 1.2.3. Errors, Defects, Failures, and Root Causes
 
 
 ![Screenshot 2024-09-04 at 21 23 09](https://github.com/user-attachments/assets/9f899b6a-b596-4b86-bfb9-95b77378dc9f)
 
-Root cause
+# Root cause
 
 ● A root cause is a fundamental reason for the occurrence of a problem (e.g., a situation that leads to an error).
 
